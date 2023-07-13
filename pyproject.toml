@@ -1,0 +1,10 @@
+# This is a configuration file that is used by modern Python build tools such as poetry and flit.
+# It specifies the project's dependencies, build tool configuration, and metadata.
+# It can also include options for building and packaging the project.
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.dagster]
+module_name = "portuguese_grades"
