@@ -4,6 +4,16 @@
 
 </div>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Portuguese-Grades.svg" alt="wakatime" />
+</p>
+
+<div align="center">
+  
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/a69b11f4c6e0689db103246f57235ed35c10f181.svg "Repobeats analytics image")
+
+</div>
+
 ## Useful documentation:
 * [Dagster Full Documentation](https://docs.dagster.io/getting-started)
 * [Dagster Tutorial](https://docs.dagster.io/tutorial)
