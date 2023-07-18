@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Portuguese Grades - Dagster Project.](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades) <img src="https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/blob/main/assets/Dagster.svg"  width="12%" height="12%">
+# [Portuguese Grades - Dagster Project.](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades) <img src="https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/blob/main/assets/Dagster.svg"  width="11%" height="11%">
 
 </div>
 
