@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Notas Português - Dagster Project.](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
+# [Portuguese Grades - Dagster Project.](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
 
 </div>
 
