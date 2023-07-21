@@ -4,9 +4,14 @@
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Portuguese-Grades.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Portuguese-Grades.svg)
+
+</div>
 
 <div align="center">
   
