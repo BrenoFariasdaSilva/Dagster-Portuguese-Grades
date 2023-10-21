@@ -31,3 +31,6 @@ upgrade:
 
 version:
 	dagster --version
+
+dependencies:
+	pip install dagster dagit

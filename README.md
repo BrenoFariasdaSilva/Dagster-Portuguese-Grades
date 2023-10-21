@@ -51,6 +51,13 @@ Simply download or clone this repository and open a terminal inside of the folde
 ```bash
 pip install dagster dagit
 ```
+
+or 
+
+```bash
+make dependencies
+```
+
 # How the project was created:
 ```bash
 dagster project scaffold --name portuguese_grades
