@@ -49,7 +49,8 @@ Simply download or clone this repository and open a terminal inside of the folde
 
 # Installation:
 ```bash
-pip install dagster dagit
+pip install -e ".[dev]"
+pip install dagster dagit notebook
 ```
 
 or 
