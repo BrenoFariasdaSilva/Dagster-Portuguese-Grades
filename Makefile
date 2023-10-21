@@ -24,6 +24,7 @@ run_prod: dagit_prod daemon_prod
 setup:
 	pip install dagster notebook
 	pip install -e ".[dev]"
+	pip install dagster dagit
 
 upgrade:
 	pip install dagster dagit --upgrade
@@ -31,6 +32,3 @@ upgrade:
 
 version:
 	dagster --version
-
-dependencies:
-	pip install dagster dagit
