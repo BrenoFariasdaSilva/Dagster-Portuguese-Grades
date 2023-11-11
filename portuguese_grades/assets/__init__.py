@@ -17,7 +17,7 @@ from sklearn.inspection import permutation_importance
 from colorama import Style # For coloring the terminal
 
 # Background colors:
-class backgroundColors: # Colors for the terminal
+class BackgroundColors: # Colors for the terminal
 	OKCYAN = "\033[96m" # Cyan
 	OKGREEN = "\033[92m" # Green
 	WARNING = "\033[93m" # Yellow
@@ -63,8 +63,8 @@ def csv_head():
 
 	male_students=len(data[data['sex']=='M'])
 	female_students=len(data[data['sex']=='F'])
-	print(f"{backgroundColors.OKCYAN}Nº. de estudantes homens: {backgroundColors.WARNING}{male_students}{Style.RESET_ALL}")
-	print(f"{backgroundColors.OKCYAN}Nº. de estudantes mulheres: {backgroundColors.WARNING}{female_students}{Style.RESET_ALL}")
+	print(f"{BackgroundColors.OKCYAN}Nº. de estudantes homens: {BackgroundColors.WARNING}{male_students}{Style.RESET_ALL}")
+	print(f"{BackgroundColors.OKCYAN}Nº. de estudantes mulheres: {BackgroundColors.WARNING}{female_students}{Style.RESET_ALL}")
 	print(f"--------------------------------------------------------------")
 
 	# Transformando as variáries para 1 e 0 ao invés de variáveis string data
@@ -127,13 +127,13 @@ def csv_head():
 	#Um modelo constante (dummy), que sempre prediz o valor de Y sem métricas, retornaria 0 como score.
 
 	y_pred=regressor.predict(X_test)
-	print(f"{backgroundColors.OKCYAN}regressor.score(X_test,y_test): {backgroundColors.WARNING}{regressor.score(X_test,y_test)}{Style.RESET_ALL}")
+	print(f"{BackgroundColors.OKCYAN}regressor.score(X_test,y_test): {BackgroundColors.WARNING}{regressor.score(X_test,y_test)}{Style.RESET_ALL}")
 	print(f"--------------------------------------------------------------")
 
 	#Testando um novo aluno
 	novo_aluno = X_test[:1]
 	resultado = regressor.predict(novo_aluno)
-	print(f"{backgroundColors.OKCYAN}A nota do novo aluno é: {backgroundColors.WARNING}{resultado}{Style.RESET_ALL}")
+	print(f"{BackgroundColors.OKCYAN}A nota do novo aluno é: {BackgroundColors.WARNING}{resultado}{Style.RESET_ALL}")
 	print(f"--------------------------------------------------------------")
 
 	#Diferença entre o predito e a verdade. Apresentando o erro.
@@ -148,7 +148,7 @@ def csv_head():
 	importance = results.importances_mean
 	# Apresentar os valores das importancias dos atributos
 	for i,v in enumerate(importance):
-		print(f"{backgroundColors.OKCYAN}Feature: {backgroundColors.WARNING}{i}{backgroundColors.OKCYAN}, Score: {backgroundColors.WARNING}{v:.5f}{Style.RESET_ALL}")
+		print(f"{BackgroundColors.OKCYAN}Feature: {BackgroundColors.WARNING}{i}{BackgroundColors.OKCYAN}, Score: {BackgroundColors.WARNING}{v:.5f}{Style.RESET_ALL}")
 	print(f"--------------------------------------------------------------")
 	# Gerar grafico
 	plt.bar([x for x in range(len(importance))], importance)
