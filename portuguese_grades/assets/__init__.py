@@ -13,10 +13,9 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVR
 from sklearn.inspection import permutation_importance
-
 from colorama import Style # For coloring the terminal
 
-# Background colors:
+# Macros:
 class BackgroundColors: # Colors for the terminal
 	OKCYAN = "\033[96m" # Cyan
 	OKGREEN = "\033[92m" # Green
