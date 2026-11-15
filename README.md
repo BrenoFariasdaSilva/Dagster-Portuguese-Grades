@@ -10,15 +10,6 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
 ![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Portuguese-Grades.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Portuguese-Grades.svg)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Dagster-Portuguese-Grades/main)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/commits/main)
 [![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/network/members)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
@@ -33,7 +24,6 @@
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Dagster-Portuguese-Grades/main)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Dagster-Portuguese-Grades?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/pulls?q=is%3Apr+is%3Amerged)
 ![GitHub Primary Language](https://img.shields.io/badge/language-Python-3b82f6)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/a69b11f4c6e0689db103246f57235ed35c10f181.svg)
 
 </div>
