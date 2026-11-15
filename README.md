@@ -16,7 +16,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Dagster-Portuguese-Grades)](https://github.com/BrenoFariasdaSilva/Dagster-Portuguese-Grades/pulls)
